@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="primary_image_height">160sp</dimen>
+
+    <!--Text-->
+    <dimen name="text_medium_small">8sp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <dimen name="text_large">24sp</dimen>
+    <dimen name="text_extra_small">32sp</dimen>
+    <dimen name="text_extra">48sp</dimen>
+
+    <!--Padding-->
+    <dimen name="padding_tiny">2sp</dimen>
+    <dimen name="padding_small">4sp</dimen>
+    <dimen name="padding_medium_small">8sp</dimen>
+    <dimen name="padding_medium">16sp</dimen>
+    <dimen name="padding_large">24sp</dimen>
+
+    <!--Margin-->
+    <dimen name="margin_tiny">2sp</dimen>
+    <dimen name="margin_small">4sp</dimen>
+    <dimen name="margin_medium_small">8sp</dimen>
+    <dimen name="margin_medium">16sp</dimen>
+    <dimen name="margin_medium_large">24sp</dimen>
+    <dimen name="margin_medium_extra">32sp</dimen>
+    <dimen name="margin_medium_extra_large">48sp</dimen>
+
+    <!--custom-->
+    <dimen name="divider_line_height">1sp</dimen>
+    <dimen name="book_detail_cover_width">140sp</dimen>
+    <dimen name="book_detail_cover_height">260sp</dimen>
+    <dimen name="width_secondary_book_cover">120sp</dimen>
+    <dimen name="logo_width_and_size">60sp</dimen>
+    <dimen name="padding_zero">0sp</dimen>
+    <dimen name="profile_book_mark_height">200dp</dimen>
+</resources>
