@@ -3,4 +3,12 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="unit_ks">Ks</string>
+    <string name="number_one">1</string>
+    <string name="item_name">Flour</string>
+    <string name="item_eight">8</string>
+    <string name="item_amount">5000</string>
+    <string name="total_amount">40000</string>
+    <string name="text_item_amount">Item Amount</string>
 </resources>

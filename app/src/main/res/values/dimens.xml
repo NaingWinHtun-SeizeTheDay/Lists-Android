@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="primary_image_height">160sp</dimen>
 
     <!--Text-->
     <dimen name="text_medium_small">8sp</dimen>
@@ -25,12 +24,15 @@
     <dimen name="margin_medium_extra">32sp</dimen>
     <dimen name="margin_medium_extra_large">48sp</dimen>
 
+    <!--zero-->
+    <dimen name="padding_zero">0sp</dimen>
+    <dimen name="margin_zero">0sp</dimen>
+    <dimen name="size_zero">0sp</dimen>
+
     <!--custom-->
     <dimen name="divider_line_height">1sp</dimen>
-    <dimen name="book_detail_cover_width">140sp</dimen>
-    <dimen name="book_detail_cover_height">260sp</dimen>
-    <dimen name="width_secondary_book_cover">120sp</dimen>
     <dimen name="logo_width_and_size">60sp</dimen>
-    <dimen name="padding_zero">0sp</dimen>
-    <dimen name="profile_book_mark_height">200dp</dimen>
+    <dimen name="list_item_height">140sp</dimen>
+    <dimen name="list_half_size">70sp</dimen>
+    <dimen name="half_second">35dp</dimen>
 </resources>

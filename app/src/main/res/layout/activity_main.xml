@@ -10,13 +10,17 @@
         android:id="@+id/tab_layout"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        app:tabMode="fixed" />
+        app:tabBackground="@color/colorPrimaryDark"
+        app:tabIndicatorColor="@color/primary_dark"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/primary_dark"
+        app:tabTextColor="@color/primary_white" />
 
     <android.support.v4.view.ViewPager
         android:id="@+id/view_pager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/tab_layout"
-        app:layout_behavior="android.support.design.widget.AppBarLayout$ScrollingViewBehavior"></android.support.v4.view.ViewPager>
+        app:layout_behavior="android.support.design.widget.AppBarLayout$ScrollingViewBehavior" />
 
 </RelativeLayout>
